@@ -131,6 +131,7 @@ func deleteBookByID(c *gin.Context) {
 
 	if result.DeletedCount == 0 {
 		c.JSON(http.StatusNotFound, gin.H{"message": "Libro No Encontrado"})
+		return
 	}
 
 	c.JSON(http.StatusOK, gin.H{"message": "Libro eliminado exitosamente"})
