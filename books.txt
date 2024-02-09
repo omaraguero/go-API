@@ -1,0 +1,286 @@
+[
+    {
+        "_id": {
+        "$oid": "573a1392f29313caabcda16f"
+        },
+        "name": "La Guia del Ligue",
+        "author": "Gabriel Montiel",
+        "year": {
+        "$numberInt": "2015"
+        },
+        "genre": "Comedia",
+        "stock": {
+            "$numberInt": "2"
+        }
+    }
+    ,
+    {
+        "_id": {
+        "$oid": "573a1392f29313caabcda114"
+        },
+        "name": "Luna de Pluton",
+        "author": "Dross",
+        "year": {
+        "$numberInt": "2014"
+        },
+        "genre": "Ciencia Ficcion",
+        "stock": {
+            "$numberInt": "4"
+        }
+    }
+    ,
+    {
+        "_id": {
+        "$oid": "573a1390f29313caabcd4803"
+        },
+        "name": "#Chupaelperro: Uno que otro consejo para que no te pase lo que a un amigo",
+        "author": "German Garmendia",
+        "year": {
+        "$numberInt": "2016"
+        },
+        "genre": "Comedia",
+        "stock": {
+            "$numberInt": "5"
+        }
+    }
+    ,
+    {
+        "_id": {
+        "$oid": "573a1392f29313caabcda111"
+        },
+        "name": "La Naranja Mecánica",
+        "author": "Anthony Burgess",
+        "year": {
+        "$numberInt": "1999"
+        },
+        "genre": "Ciencia Ficcion",
+        "stock": {
+            "$numberInt": "5"
+        }
+    }
+    ,
+    {
+        "_id": {
+        "$oid": "573a1392f29313caabcda0e7"
+        },
+        "name": "Bajo la misma estrella",
+        "author": "John Green",
+        "year": {
+        "$numberInt": "2014"
+        },
+        "genre": "Romance",
+        "stock": {
+            "$numberInt": "5"
+        }
+    }
+    ,
+    {
+        "_id": {
+        "$oid": "573a1392f29313caabcd9dee"
+        },
+        "name": "Cujo",
+        "author": "Stephen King",
+        "year": {
+        "$numberInt": "2000"
+        },
+        "genre": "Terror",
+        "stock": {
+            "$numberInt": "15"
+        }
+    }
+    ,
+    {
+        "_id": {
+        "$oid": "573a1392f29313caabcd9cfb"
+        },
+        "name": "Historias Fantásticas",
+        "author": "Stephen King",
+        "year": {
+        "$numberInt": "2017"
+        },
+        "genre": "Terror",
+        "stock": {
+            "$numberInt": "15"
+        }
+    }
+    ,
+    {
+        "_id": {
+        "$oid": "573a1392f29313caabcd9cce"
+        },
+        "name": "Revival",
+        "author": "Stephen King",
+        "year": {
+        "$numberInt": "2017"
+        },
+        "genre": "Thriller",
+        "stock": {
+            "$numberInt": "15"
+        }
+    }
+    ,
+    {
+        "_id": {
+        "$oid": "573a1392f29313caabcd9c4c"
+        },
+        "name": "Crónica de una muerte anunciada",
+        "author": "Gabriel Garcia Marquez",
+        "year": {
+        "$numberInt": "1983"
+        },
+        "genre": "Drama",
+        "stock": {
+            "$numberInt": "15"
+        }
+    }
+    ,
+    {
+        "_id": {
+        "$oid": "573a1392f29313caabcd9ca6"
+        },
+        "name": "Cien años de soledad",
+        "author": "Gabriel Garcia Marquez",
+        "year": {
+        "$numberInt": "1982"
+        },
+        "genre": "Novela",
+        "stock": {
+            "$numberInt": "7"
+        }
+    }
+    ,
+    {
+        "_id": {
+        "$oid": "573a1392f29313caabcd97a7"
+        },
+        "name": "La mala hora",
+        "author": "Gabriel Garcia Marquez",
+        "year": {
+        "$numberInt": "1971"
+        },
+        "genre": "Novela",
+        "stock": {
+            "$numberInt": "7"
+        }
+    }
+    ,
+    {
+        "_id": {
+        "$oid": "573a1391f29313caabcd96ae"
+        },
+        "name": "El otoño del patriarca",
+        "author": "Gabriel Garcia Marquez",
+        "year": {
+        "$numberInt": "1980"
+        },
+        "genre": "Novela",
+        "stock": {
+            "$numberInt": "7"
+        }
+    }
+    ,
+    {
+        "_id": {
+        "$oid": "573a1391f29313caabcd9721"
+        },
+        "name": "Me alegro de que mi madre haya muerto",
+        "author": "Jennette McCurdy",
+        "year": {
+        "$numberInt": "2023"
+        },
+        "genre": "Biografia",
+        "stock": {
+            "$numberInt": "7"
+        }
+    }
+    ,
+    {
+        "_id": {
+        "$oid": "573a1391f29313caabcd95ee"
+        },
+        "name": "Hyrule Historia",
+        "author": "Eiji Aonuma",
+        "year": {
+        "$numberInt": "2023"
+        },
+        "genre": "Ciencia Ficcion",
+        "stock": {
+            "$numberInt": "7"
+        }
+    }
+    ,
+    {
+        "_id": {
+        "$oid": "573a1391f29313caabcd9596"
+        },
+        "name": "Visión cromática",
+        "author": "Catalina Giselle",
+        "year": {
+        "$numberInt": "2022"
+        },
+        "genre": "Romance",
+        "stock": {
+            "$numberInt": "7"
+        }
+    }
+    ,
+    {
+        "_id": {
+        "$oid": "573a1391f29313caabcd9600"
+        },
+        "name": "Wishes",
+        "author": "Catalina Giselle",
+        "year": {
+        "$numberInt": "2021"
+        },
+        "genre": "Romance",
+        "stock": {
+            "$numberInt": "7"
+        }
+    }
+    ,
+    {
+        "_id": {
+        "$oid": "573a1391f29313caabcd9637"
+        },
+        "name": "El Señor de las Moscas",
+        "author": "William Golding ",
+        "year": {
+        "$numberInt": "2010"
+        },
+        "genre": "Ciencia Ficcion",
+        "stock": {
+            "$numberInt": "7"
+        }
+    }
+    ,
+    {
+        "_id": {
+        "$oid": "573a1391f29313caabcd9688"
+        },
+        "name": "El retrato de Dorian Gray",
+        "author": "Oscar Wilde",
+        "year": {
+        "$numberInt": "2008"
+        },
+        "genre": "Ficcion Gotica",
+        "stock": {
+            "$numberInt": "7"
+        }
+    }
+    ,
+    {
+        "_id": {
+        "$oid": "573a1391f29313caabcd96ac"
+        },
+        "name": "La llamada de Cthulhu",
+        "author": "H. P. Lovecraft",
+        "year": {
+        "$numberInt": "2005"
+        },
+        "genre": "Terror",
+        "stock": {
+            "$numberInt": "7"
+        }
+    }
+]
