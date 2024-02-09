@@ -1,3 +1,3 @@
 # go-API
 A basic API for Golang, with Gin to connect to MongoDB Atlas!
-I will make a video in a few days!
+Video tutorial on: https://youtu.be/gWLea61cuR8 (in Spanish)
